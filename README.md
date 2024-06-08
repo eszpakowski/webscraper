@@ -1,6 +1,6 @@
-# interview
+# Simple webscraper
 
-A Clojure library designed to ... well, that part is up to you.
+Example of a simple web scraper fetching financial data from site tree.
 
 ## Usage
 
